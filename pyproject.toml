@@ -47,7 +47,7 @@ name = "q-a-system"
 version = "0.2.0"
 description = "Your project description"
 authors = [
-    {email = "mauricio987650@gmail.com", name = "Mauricio Avila Sesa"},
+    {"mauricio987650@gmail.com Mauricio Avila Sesa"},
 ]
 
 [tool.codespell]
