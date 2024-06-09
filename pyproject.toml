@@ -42,6 +42,14 @@ requires-python = ">=3.8"
 urls = {repository = "https://github.com/whitead/paper-qa"}
 version = "4.7.0"
 
+[tool.poetry]
+name = "q-a-system"
+version = "0.2.0"
+description = "Your project description"
+authors = [
+    {email = "mauricio987650@gmail.com", name = "Mauricio Avila Sesa"},
+]
+
 [tool.codespell]
 check-filenames = true
 check-hidden = true
